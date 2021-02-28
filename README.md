@@ -26,8 +26,25 @@ Para testar o projeto sera necessário utlizar um emulador ou executar ele em um
 Com o projeto rodando, você precisa criar uma página HTML para chamar o seu link. Para esse exemplo eu utilizei o site *w3schools*. A seguir você tem o link de uma página HTML configurada com as variaveis do meu projeto:
 
 ```TypeScript
-https://www.w3schools.com/code/tryit.asp?filename=GO3XTE12VDBC
+https://www.w3schools.com/code/tryit.asp?filename=GO4JYPTPGCUX
 ```
+
+Exemplo de uma para chamade de dentro do APP:
+
+```TypeScript
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ionic Deeplink</title>
+</head>
+<body>
+
+<h1><a href="ionicdeeplink://tadriano.com/">Clique aqui</a></h1>
+</body>
+</html>
+
+```
+
 
 ## Resultado
 Video demonstrando o resultado:
