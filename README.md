@@ -30,5 +30,7 @@ https://www.w3schools.com/code/tryit.asp?filename=GO3XTE12VDBC
 ```
 
 ## Resultado
+Video demonstrando o resultado:
+
 [![IMAGE_ALT](https://img.youtube.com/vi/Yl22wDeIBt4/0.jpg)](https://www.youtube.com/watch?v=Yl22wDeIBt4)
 
